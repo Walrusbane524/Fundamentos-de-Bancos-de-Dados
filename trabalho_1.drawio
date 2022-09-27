@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T23:58:27.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.126 Safari/537.36" etag="g50jyYuM_oVhEU4WmZ3o" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-27T23:58:42.985Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.126 Safari/537.36" etag="0S8Rdz12V5sWAffIOj4m" version="20.3.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1276" dy="945" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -105,7 +105,7 @@
         <mxCell id="e1uVySr2OCQzvFWpXJg2-57" value="É um" style="triangle;whiteSpace=wrap;html=1;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="570.5" width="52.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="e1uVySr2OCQzvFWpXJg2-64" value="Cursam" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="e1uVySr2OCQzvFWpXJg2-64" value="Cursa" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="162.5" y="242" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e1uVySr2OCQzvFWpXJg2-65" value="Curso" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -507,7 +507,7 @@
             <mxPoint x="120" y="176" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e1uVySr2OCQzvFWpXJg2-216" value="Estudam" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="e1uVySr2OCQzvFWpXJg2-216" value="Estuda" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="118" width="75" height="76" as="geometry" />
         </mxCell>
         <mxCell id="e1uVySr2OCQzvFWpXJg2-217" value="Disciplina" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
